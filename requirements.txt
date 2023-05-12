@@ -1,0 +1,8 @@
+numpy
+scipy
+pyaudio
+wave
+argparse
+statistics
+matplotlib
+pychord
